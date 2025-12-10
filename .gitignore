@@ -1,0 +1,16 @@
+# Pasta de build e arquivos temporários
+build/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Arquivos de usuário e caches
+.DS_Store
+DerivedData/
+.swiftpm/
+
+# Workspaces (Inclua o workspace inteiro se você não usa Pods)
+# Se o seu projeto *não* usa CocoaPods/Swift Package Manager, você pode ignorar:
+# *.xcworkspace
+
+# Arquivos de usuário do Xcode
+*.xcuserdatad/
